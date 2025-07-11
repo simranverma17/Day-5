@@ -1,0 +1,18 @@
+body {
+      text-align: center;
+      padding-top: 100px;
+      background-color: #222;
+      color: white;
+      font-family: Arial, sans-serif;
+}
+button {
+      padding: 10px 20px;
+      margin: 10px;
+      font-size: 16px;
+      cursor: pointer;
+}
+#chnge {
+    display: block;       
+    margin: 10px auto;     
+    font-size: 1.5em;
+}
